@@ -6,11 +6,14 @@
 ## 	<sub> Installation:	</sub>
   1. Download the source files
   2. Extract the source folder from the ZIP folder
-  3. Open the source folder in a Java IDE
+  3. Open the source folder in your choice of Java IDE
   4. Set up JavaFX in the local library (if you are using IntelliJ on Windows, follow the instructions here: https://youtu.be/I2IwG31fLfY?si=_29otdWkT1sakLpU)
-  5. Run the program by using the AdventureGame class
+  6. Run the program by using the AdventureGame class
 
-
-
-
+## <sub> Credits: </sub>
+  - **The CSC207 Instructional Team:** Built the skeleton for the project
+  - **Andy Tran (me):** Created the accessibility settings menu, zoom, and font-changing features
+  - **Harsimar Singh:** Created the title screen, speech-to-text and translate features.
+  - **Hardik Jayesh Shah:** Created the contrast option, text narration, and keyboard navigation features.
+  - **Harsh Bimal Mehta:** Created the progress stats and hitpoint features.
 
