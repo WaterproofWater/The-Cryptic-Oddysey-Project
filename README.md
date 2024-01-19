@@ -17,3 +17,5 @@
   - **Hardik Jayesh Shah:** Created the contrast option, text narration, and keyboard navigation features.
   - **Harsh Bimal Mehta:** Created the progress stats and hitpoint features.
 
+## <sub> Uses: </sub>
+  This project is no longer receiving any new changes, as a result, this project is free for educational and personal uses as long as credits are given where it is due. Feel free to modify any classes to serve your needs.
